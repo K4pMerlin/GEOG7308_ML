@@ -1,0 +1,220 @@
+===== airplane46.tif =====
+Number of Bands: 3
+
+Band: Band 1
+  Min: 12.000000
+  Max: 250.000000
+  Mean: 126.138062
+  Std Dev: 64.510633
+
+Band: Band 2
+  Min: 13.000000
+  Max: 250.000000
+  Mean: 129.770142
+  Std Dev: 64.106693
+
+Band: Band 3
+  Min: 13.000000
+  Max: 250.000000
+  Mean: 115.692657
+  Std Dev: 69.867917
+
+
+===== airplane69.tif =====
+Number of Bands: 3
+
+Band: Band 1
+  Min: 12.000000
+  Max: 245.000000
+  Mean: 125.336914
+  Std Dev: 51.122517
+
+Band: Band 2
+  Min: 13.000000
+  Max: 250.000000
+  Mean: 126.524551
+  Std Dev: 51.280772
+
+Band: Band 3
+  Min: 13.000000
+  Max: 250.000000
+  Mean: 106.415558
+  Std Dev: 52.943796
+
+
+===== beach21.tif =====
+Number of Bands: 3
+
+Band: Band 1
+  Min: 64.000000
+  Max: 242.000000
+  Mean: 165.128036
+  Std Dev: 29.153488
+
+Band: Band 2
+  Min: 70.000000
+  Max: 251.000000
+  Mean: 184.547928
+  Std Dev: 27.477500
+
+Band: Band 3
+  Min: 64.000000
+  Max: 253.000000
+  Mean: 174.677658
+  Std Dev: 32.947232
+
+
+===== beach31.tif =====
+Number of Bands: 3
+
+Band: Band 1
+  Min: 88.000000
+  Max: 175.000000
+  Mean: 139.316208
+  Std Dev: 22.333221
+
+Band: Band 2
+  Min: 89.000000
+  Max: 175.000000
+  Mean: 138.755920
+  Std Dev: 13.826751
+
+Band: Band 3
+  Min: 97.000000
+  Max: 177.000000
+  Mean: 135.086685
+  Std Dev: 15.157718
+
+
+===== buildings14.tif =====
+Number of Bands: 3
+
+Band: Band 1
+  Min: 0.000000
+  Max: 252.000000
+  Mean: 118.691605
+  Std Dev: 57.193146
+
+Band: Band 2
+  Min: 0.000000
+  Max: 248.000000
+  Mean: 121.300156
+  Std Dev: 55.704264
+
+Band: Band 3
+  Min: 0.000000
+  Max: 250.000000
+  Mean: 107.174820
+  Std Dev: 50.708725
+
+
+===== buildings16.tif =====
+Number of Bands: 3
+
+Band: Band 1
+  Min: 0.000000
+  Max: 255.000000
+  Mean: 123.845322
+  Std Dev: 59.868924
+
+Band: Band 2
+  Min: 0.000000
+  Max: 255.000000
+  Mean: 122.488525
+  Std Dev: 58.018123
+
+Band: Band 3
+  Min: 0.000000
+  Max: 255.000000
+  Mean: 104.431015
+  Std Dev: 54.786376
+
+
+===== forest19.tif =====
+Number of Bands: 3
+
+Band: Band 1
+  Min: 53.000000
+  Max: 223.000000
+  Mean: 124.176346
+  Std Dev: 28.199811
+
+Band: Band 2
+  Min: 52.000000
+  Max: 249.000000
+  Mean: 128.735382
+  Std Dev: 35.481956
+
+Band: Band 3
+  Min: 41.000000
+  Max: 234.000000
+  Mean: 132.405472
+  Std Dev: 28.508444
+
+
+===== forest36.tif =====
+Number of Bands: 3
+
+Band: Band 1
+  Min: 3.000000
+  Max: 170.000000
+  Mean: 51.454178
+  Std Dev: 25.037740
+
+Band: Band 2
+  Min: 14.000000
+  Max: 176.000000
+  Mean: 76.440460
+  Std Dev: 31.565599
+
+Band: Band 3
+  Min: 15.000000
+  Max: 137.000000
+  Mean: 58.164749
+  Std Dev: 19.509150
+
+
+===== river32.tif =====
+Number of Bands: 3
+
+Band: Band 1
+  Min: 0.000000
+  Max: 237.000000
+  Mean: 129.016190
+  Std Dev: 35.784286
+
+Band: Band 2
+  Min: 0.000000
+  Max: 225.000000
+  Mean: 116.838120
+  Std Dev: 34.924388
+
+Band: Band 3
+  Min: 0.000000
+  Max: 212.000000
+  Mean: 104.901001
+  Std Dev: 33.517772
+
+
+===== river41.tif =====
+Number of Bands: 3
+
+Band: Band 1
+  Min: 9.000000
+  Max: 237.000000
+  Mean: 110.068024
+  Std Dev: 45.113564
+
+Band: Band 2
+  Min: 18.000000
+  Max: 238.000000
+  Mean: 120.331482
+  Std Dev: 42.753415
+
+Band: Band 3
+  Min: 24.000000
+  Max: 220.000000
+  Mean: 100.069977
+  Std Dev: 35.941548
+
+

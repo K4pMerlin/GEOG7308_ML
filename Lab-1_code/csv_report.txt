@@ -1,0 +1,62 @@
+===== CSV Statistical Report =====
+
+Per-file statistics:
+Filename: 0.csv
+  Rows: 32
+  Columns: 10
+  Mean: 1804.021875
+  Std Dev: 1708.996837
+  Min: 0.000000
+  Max: 12000.000000
+
+Filename: 1.csv
+  Rows: 38
+  Columns: 10
+  Mean: 5970.623684
+  Std Dev: 3274.639989
+  Min: 0.000000
+  Max: 12000.000000
+
+Filename: 2.csv
+  Rows: 38
+  Columns: 10
+  Mean: 2636.555263
+  Std Dev: 2430.427588
+  Min: 0.000000
+  Max: 12000.000000
+
+Filename: 3.csv
+  Rows: 27
+  Columns: 10
+  Mean: 3271.422222
+  Std Dev: 2625.351380
+  Min: 0.000000
+  Max: 12000.000000
+
+Filename: 4.csv
+  Rows: 27
+  Columns: 10
+  Mean: 2942.366667
+  Std Dev: 2592.964570
+  Min: 0.000000
+  Max: 10974.000000
+
+Filename: 5.csv
+  Rows: 27
+  Columns: 10
+  Mean: 2685.277778
+  Std Dev: 2074.592695
+  Min: 0.000000
+  Max: 10589.000000
+
+Filename: 6.csv
+  Rows: 27
+  Columns: 10
+  Mean: 2623.644444
+  Std Dev: 2037.752905
+  Min: 0.000000
+  Max: 10901.000000
+
+===== Merged Dataset Overview =====
+Final matrix shape (rows, columns): (216, 10)
+Overall mean (all numeric values): 3221.827315
